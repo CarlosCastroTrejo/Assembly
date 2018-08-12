@@ -1,0 +1,5 @@
+﻿  Assembling HolaMundo.asm...
+HolaMundo.asm(48): error A2022: instruction operands must be the same size
+HolaMundo.asm(53): error A2022: instruction operands must be the same size
+HolaMundo.asm(61): error A2022: instruction operands must be the same size
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\BuildCustomizations\masm.targets(50,5): error MSB3721: El comando "ml.exe /c /nologo /Zi /Fo"Debug\HolaMundo.obj" /Fl"P_HolaMundo.lst" /I "C:\Irvine" /W3 /errorReport:prompt  /TaHolaMundo.asm" salió con el código 1.
